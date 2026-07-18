@@ -56,79 +56,87 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 
 ## 🛠️ Tech Stack & Professional Skills
 
-</div>
+---
 
-### 📱 **Mobile Development Excellence**
+### 💻 **Microsoft .NET Development**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark&perline=3" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,apple&theme=dark&perline=7" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple logo" />
-  
-  
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
-  <strong>Flutter Magic: One Code → Two Native Apps</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
+<b>Building scalable enterprise applications with the Microsoft technology stack.</b>
 </div>
 
-### 🔧 **Development Tools & Environment**
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark&perline=4" />
-  <br><br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+---
 
-### 🌐 **Backend & Full-Stack Development**
+### 🌐 **Frontend Development**
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,jquery&theme=dark&perline=6" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman,react,nextjs&theme=dark&perline=6" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
+---
+
+### ⚙️ **Backend & API Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,postman,swagger&theme=dark&perline=3" />
+  <br><br>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ADO.NET-68217A?style=for-the-badge">
+</div>
+
+---
+
+### 🗄️ **Database Technologies**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=3" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Stored_Procedures-025E8C?style=for-the-badge">
+</div>
+
+---
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
+  <img src="https://skillicons.dev/icons?i=azure,git,github&theme=dark&perline=3" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker&theme=dark&perline=3" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_Communication_Services-0078D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+---
+
+### 🏗️ **Software Engineering**
 <div align="center">
-  <strong>⚡ Full-Stack Mobile & Web Solutions Expert ⚡</strong>
+
+🏢 Enterprise Application Development • ☁️ Azure Cloud • 🔗 REST APIs • ⚡ Performance Optimization • 🗄️ SQL Server • 🧩 Clean Architecture • 📈 Agile/Scrum • 🚀 Continuous Learning
+
 </div>
 
 ---
 
 <div align="center">
+
+### 🚀 **Enterprise Software Engineer | .NET Developer | Building Reliable & Scalable Solutions**
+
+</div>
 
 ## 📊 GitHub Statistics
 
