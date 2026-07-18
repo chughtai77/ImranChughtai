@@ -234,34 +234,7 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
-  <strong>Building the Future, One Flutter App at a Time</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
-</div> -->
 
----
-
-<div align="center">
-
-## 📫 Let's Connect!
-
-</div>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-chughtai-a9297621b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chughtai77)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.chughtai77@gmail.com)
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Chughtai77&style=for-the-badge&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/Chughtai77?style=for-the-badge&logo=github)](https://github.com/Chughtai77?tab=followers)
-
-</div>
 
 ---
 
@@ -343,6 +316,32 @@ I specialize in delivering **complete end-to-end solutions** for businesses and 
 
 <div align="center">
   <strong>Ready to transform your ideas into powerful digital solutions?</strong>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
+  <strong>Building the Future, One Flutter App at a Time</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
+</div> -->
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+</div>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-chughtai-a9297621b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chughtai77)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.chughtai77@gmail.com)
+
+
+
 </div>
 
 ## 📞 **Let's Discuss Your Project**
