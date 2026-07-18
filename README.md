@@ -55,8 +55,8 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 <div align="center">
 
 ## 🛠️ Tech Stack & Professional Skills
+</div>
 
----
 
 ### 💻 **Microsoft .NET Development**
 <div align="center">
