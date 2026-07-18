@@ -164,17 +164,8 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
   </picture>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadnadeem27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&custom_title=Professional%20GitHub%20Activity%20(Including%20Private%20Work)" alt="Professional GitHub Stats" />
-</div> -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadnadeem27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadnadeem27&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
 
 
 
