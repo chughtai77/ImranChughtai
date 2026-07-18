@@ -151,9 +151,15 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&include_all_commits=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
-  </picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chughtai77&theme=github-dark-blue&hide_border=true&background=0D1117&include_all_commits=true"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Chughtai77&theme=default&hide_border=true&include_all_commits=true"
+    alt="Muhammad Imran Chughtai's GitHub Streak"
+  />
+</picture>
 </div>
 
 <div align="center">
