@@ -10,9 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=0078D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Software+Engineer+%F0%9F%92%BB;.NET+Developer+%F0%9F%9A%80;Building+Scalable+Enterprise+Applications+%E2%9A%A1;C%23+%7C+ASP.NET+Core+%7C+Azure+%7C+React+%E2%98%81%EF%B8%8F;5%2B+Years+of+Professional+Experience+%F0%9F%8F%86" alt="Typing SVG" />
-</p>" />
 </div>
 
 <div align="center">
