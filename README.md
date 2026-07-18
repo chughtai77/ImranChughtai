@@ -251,11 +251,15 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&animated=true)](https://www.linkedin.com/in/saad-nadeem-07-an-expert-flutter-developer/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/saadnadeem27)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadnadeem27@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://saadnadeem27.github.io) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-chughtai-a9297621b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chughtai77)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.chughtai77@gmail.com)
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Chughtai77&style=for-the-badge&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Chughtai77?style=for-the-badge&logo=github)](https://github.com/Chughtai77?tab=followers)
 
 </div>
 
