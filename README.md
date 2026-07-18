@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **Software Engineer** with **5+ years of professional experience** developing enterprise-grade software using **C#, ASP.NET Core, .NET, SQL Server, Azure, React, and REST APIs**. Currently working at **Komatsu Pakistan Soft**, I contribute to business-critical applications including CPQ and Global Customer Portal solutions. I enjoy solving complex technical challenges, building scalable software, and continuously learning modern technologies.
+I'm a **Software Engineer** with **5+ years of professional experience** developing enterprise-grade software using **C#, ASP.NET Core, .Net MVC Application, .NET, SQL Server, Azure, React, and REST APIs**. Currently working at **Komatsu Pakistan Soft**, I contribute to business-critical applications including CPQ and Global Customer Portal solutions. I enjoy solving complex technical challenges, building scalable software, and continuously learning modern technologies.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
