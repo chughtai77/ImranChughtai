@@ -137,6 +137,7 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 ### 🚀 **Enterprise Software Engineer | .NET Developer | Building Reliable & Scalable Solutions**
 
 </div>
+<div align="center">
 
 ## 📊 GitHub Statistics
 
