@@ -143,44 +143,7 @@ I'm a **Software Engineer** with **5+ years of professional experience** develop
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saadnadeem27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_owner=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=saadnadeem27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
-  </picture>
-</div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&include_all_commits=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
-  </picture>
-</div>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Chughtai77&theme=default&hide_border=true&include_all_commits=true"
-    alt="Muhammad Imran Chughtai's GitHub Streak"
-  />
-</picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saadnadeem27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadnadeem27&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
-  </picture>
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadnadeem27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&custom_title=Professional%20GitHub%20Activity%20(Including%20Private%20Work)" alt="Professional GitHub Stats" />
-</div> -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadnadeem27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadnadeem27&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
 
 ---
 
