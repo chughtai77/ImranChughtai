@@ -22,17 +22,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **Senior Software Engineer** with **5+ years of experience** specializing in **.Net Web Application Development** with expertise in **C# .Net**. I build high-quality, scalable mobile applications that deliver exceptional user experiences across both **Enterprise Level Applications** using a single codebase.
+I'm a **Software Engineer** with **5+ years of professional experience** developing enterprise-grade software using **C#, ASP.NET Core, .NET, SQL Server, Azure, React, and REST APIs**. Currently working at **Komatsu Pakistan Soft**, I contribute to business-critical applications including CPQ and Global Customer Portal solutions. I enjoy solving complex technical challenges, building scalable software, and continuously learning modern technologies.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-**Why Flutter?** 🎯
-- **Cross-Platform Excellence**: Write once, run everywhere - build native apps for both Android and iOS simultaneously
-- **Single Codebase**: Maintain one Flutter codebase instead of separate Android (Java/Kotlin) and iOS (Swift/Objective-C) projects
-- **Native Performance**: Flutter compiles to native ARM code, delivering 60fps performance on both platforms
-- **Faster Development**: Hot reload, rich widgets, and comprehensive tooling accelerate development cycles
+## **Why .NET?** 💻
+
+- **Scalable Enterprise Applications**: Develop business-critical software using C#, ASP.NET Core, .NET, SQL Server, and Azure.
+- **Modern Web Development**: Build secure REST APIs, enterprise web applications, and cloud-integrated solutions with modern Microsoft technologies.
+- **Performance & Reliability**: Focus on clean architecture, optimized database design, and high-performance application development.
+- **Cloud & Integration**: Experience integrating Azure services, Azure Communication Services, Cosmos DB, and third-party APIs.
+- **Continuous Improvement**: Passionate about learning emerging technologies and delivering innovative software solutions that create business value.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"> 
@@ -40,11 +42,12 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 </div>
 
-- 🔭 Currently working on innovative mobile solutions using Flutter for dual-platform deployment
-- 🌱 Always learning and exploring new technologies in mobile development ecosystem
-- 💡 Love solving complex problems and optimizing app performance across Android & iOS
-- 🎯 Focus on clean code, best practices, and user-centric design principles
-- 📱 **5+ years** of expertise in cross-platform mobile development
+- 💼 Software Engineer at **Komatsu Pakistan Soft (Pvt.) Ltd.**
+- 🚀 Building enterprise applications with **C#, ASP.NET Core, .NET, Azure, React & SQL Server**
+- 🌱 Currently exploring **Cloud Technologies, AI Integration, and Microservices Architecture**
+- 💡 Passionate about solving complex business problems through scalable and maintainable software solutions
+- 🤝 Experienced working in **Agile/Scrum** teams with a focus on collaboration, quality, and continuous improvement
+- 🎯 **5+ years** of professional experience in enterprise software development
 
 ---
 
@@ -178,25 +181,25 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 ### 🎯 Core Expertise
 <img align="right" alt="Working" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-- 🚀 **5+ Years** of Cross-Platform Mobile Development with Flutter & Dart
-- 📱 **Single Codebase, Dual Platforms**: Expert in building apps that run natively on both Android and iOS
-- 🔧 **Native Mobile Integration** with platform-specific features and APIs
-- ⚡ **State Management** (Provider, Bloc, Riverpod, GetX)
-- 🌐 **API Integration** & RESTful Services
-- 💾 **Database Management** (SQLite, Hive, Firebase, Supabase)
-- 🏎️ **Performance Optimization** & Memory Management for both platforms
-- 🎨 **UI/UX Implementation** from design to pixel-perfect apps on Android & iOS
-- ✅ **Code Quality** & Testing (Unit, Widget, Integration tests)
-- 🚀 **CI/CD Pipeline** setup and deployment to Google Play Store & Apple App Store
+- 💼 **5+ Years** of Professional Experience building enterprise-grade applications with **C#, ASP.NET Core, .NET, SQL Server, Azure, and React**
+- 🚀 Specialized in **Enterprise Web Applications, REST APIs, Cloud Solutions, and Backend Development**
+- ☁️ Experienced with **Microsoft Azure, Azure Communication Services, Azure Cosmos DB, and Cloud Integration**
+- 🔗 Strong background in **REST API Development, Systems Integration, and Database Optimization**
+- 🏗️ Passionate about **Clean Architecture, SOLID Principles, Design Patterns, and Scalable Software Solutions**
+- ⚡ Experienced in **Performance Optimization, Debugging, Root Cause Analysis, and Production Support**
+- 🤝 Collaborative team player with experience working in **Agile/Scrum** environments using **Git** and modern development practices
+- 🎯 Committed to building reliable, maintainable, and business-focused software that delivers measurable value
+
 
 ### 📈 Key Achievements
-- ✨ **5+ years** of professional mobile development experience
-- 🏆 Successfully delivered multiple production-ready apps for both Android and iOS platforms
-- ⚡ Reduced development time by 60% using Flutter's cross-platform approach
-- 🎯 Expert in Flutter ecosystem and latest development practices
-- 📊 Strong focus on app performance and user experience optimization across platforms
-- 👥 Experience with agile development methodologies and cross-functional teams
-- 🎓 Mentoring junior developers and establishing code review processes
+
+- 💼 **5+ years** of professional experience in enterprise software development with the Microsoft technology stack
+- 🚀 Contributed to enterprise applications serving global business operations at **Komatsu Pakistan Soft**
+- 🏗️ Designed, developed, and maintained scalable web applications, REST APIs, and business-critical backend services
+- ☁️ Delivered cloud-integrated solutions using **Azure**, **Azure Communication Services**, and **Azure Cosmos DB**
+- ⚡ Improved application performance and reliability through debugging, SQL optimization, and production support
+- 🤝 Experienced working in **Agile/Scrum** teams with a strong focus on collaboration, ownership, and continuous improvement
+- 🎯 Committed to writing clean, maintainable, and scalable software following industry best practices
 
 <!-- ---
 
@@ -255,38 +258,37 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 I specialize in delivering **complete end-to-end solutions** for businesses and startups. My expertise spans the entire development lifecycle, from concept to deployment and maintenance.
 
 ## 🚀 **Complete Solution Architecture**
+### 💼 **Enterprise Application Development**
+- **Enterprise Web Applications** using C#, ASP.NET Core, ASP.NET MVC, and .NET 8
+- **Business-Critical Systems** including CPQ, Healthcare, CRM, and Customer Portal solutions
+- **Scalable Backend Development** following SOLID principles and Clean Architecture
+- **Business Workflow Automation** and enterprise process optimization
+- **Production Support**, debugging, and application maintenance
+- **Performance Optimization** for scalable enterprise applications
 
-### 📱 **Mobile App Development** 
-- **Flutter Cross-Platform Apps** (Android & iOS)
-- **Native Performance** with single codebase
-- **Custom UI/UX Design** implementation
-- **Real-time Features** (Chat, Notifications, Live Updates)
-- **Offline Functionality** with local storage
-- **App Store & Play Store** deployment
+### 🌐 **Web & API Development**
+- **RESTful API Development** using ASP.NET Web API and ASP.NET Core
+- **Systems Integration** with third-party services and enterprise platforms
+- **Authentication & Authorization** using secure application design
+- **Frontend Development** with React, JavaScript, jQuery, AJAX, Bootstrap, HTML5, and CSS3
+- **Responsive Web Applications** optimized for desktop and mobile devices
+- **API Documentation** using Swagger and Postman
 
-### 🌐 **Admin Panel & Dashboard Development**
-- **Responsive Web Admin Panels** using React/Next.js
-- **Real-time Analytics** and reporting systems
-- **User Management** and role-based access control
-- **Content Management Systems** (CMS)
-- **Data Visualization** with charts and graphs
-- **Mobile-responsive** design for all devices
+### ☁️ **Cloud & Database Solutions**
+- **Microsoft Azure** cloud-enabled application development
+- **Azure Communication Services** integration
+- **Azure Cosmos DB** and SQL Server database development
+- **Entity Framework Core**, LINQ, ADO.NET, and Stored Procedures
+- **Database Design**, query optimization, and performance tuning
+- **Cloud Integration** with scalable enterprise services
 
-### 💻 **Website Development**
-- **Professional Business Websites** 
-- **E-commerce Platforms** with payment integration
-- **Landing Pages** for marketing campaigns
-- **Portfolio Websites** for professionals
-- **Blog & CMS Websites** 
-- **SEO Optimized** and fast-loading sites
-
-### 🔧 **Backend & API Development**
-- **RESTful API Development** with Node.js
-- **Database Design** (MongoDB, MySQL, PostgreSQL)
-- **Authentication & Authorization** systems
-- **Payment Gateway Integration** (Stripe, PayPal)
-- **Cloud Integration** (AWS, Google Cloud)
-- **Real-time Communication** (WebSockets, Socket.io)
+### ⚙️ **Software Engineering Practices**
+- **Agile/Scrum Development** with collaborative cross-functional teams
+- **Version Control** using Git and GitHub
+- **Code Reviews**, debugging, and root cause analysis
+- **Clean Architecture**, Repository Pattern, and Design Patterns
+- **CI/CD Fundamentals** and modern software delivery practices
+- **Continuous Learning** in Azure, AI, DevOps, and emerging .NET technologies
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
@@ -301,23 +303,23 @@ I specialize in delivering **complete end-to-end solutions** for businesses and 
 <td align="center" width="50%">
 
 ### 🎯 **For Businesses**
-- **Complete Digital Transformation**
-- **Custom Mobile & Web Solutions**
-- **Scalable Architecture Design**
-- **Performance Optimization**
-- **Maintenance & Support**
-- **Technical Consultation**
+- **Enterprise Web Application Development**
+- **Business-Critical Software Solutions**
+- **Cloud & Azure Integration**
+- **REST API Development**
+- **Clean Architecture & Best Practices**
+- **Continuous Application Improvement**
 
 </td>
 <td align="center" width="50%">
 
 ###   **For Startups**
-- **MVP Development** 
-- **Rapid Prototyping**
-- **Cost-Effective Solutions**
-- **Scalable Foundation**
-- **Growth-Ready Architecture**
-- **Technical Co-founder Support**
+- **Business-Critical Application Development**
+- **Modern .NET Solutions**
+- **Cloud Integration & Azure Services**
+- **High-Performance Backend Systems**
+- **Database Optimization & Security**
+- **Maintainable & Scalable Software**
 
 </td>
 </tr>
@@ -329,7 +331,7 @@ I specialize in delivering **complete end-to-end solutions** for businesses and 
 
 ## 📞 **Let's Discuss Your Project**
 
-Whether you need a **complete mobile app with admin panel**, a **professional website**, or a **full-stack solution**, I'm here to bring your vision to life with cutting-edge technology and professional expertise.
+Whether it's building enterprise applications, developing secure REST APIs, integrating cloud technologies, or enhancing existing business systems, I enjoy creating scalable, maintainable, and high-quality software using the Microsoft technology stack.
 
 <div align="center">
   <strong>Contact me today for a free consultation!</strong>
