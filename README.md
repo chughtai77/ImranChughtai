@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Senior+Software+Engineer+%F0%9F%9A%80;Flutter+%26+Cross-Platform+Expert+%F0%9F%93%B1;Building+Amazing+Android+%26+iOS+Apps+%E2%9C%A8;5%2B+Years+of+Mobile+Excellence+%F0%9F%8F%86;Full-Stack+Mobile+%26+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Senior+Software+Engineer+%F0%9F%9A%80;Flutter+%26+Cross-Platform+Expert+%F0%9F%93%B1;Building+Amazing+Android+%26+iOS+Apps+%E2%9C%A8;5%2B+Years+of+Mobile+Excellence+%F0%9F%8F%86;Full-Stack+Mobile+%26+Web+Developer+%F0%9F%92%BB" alt="Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Azure+%7C+React;Building+Scalable+Enterprise+Applications;REST+APIs+%7C+Cloud+Solutions+%7C+SQL+Server;Always+Learning+New+Technologies)" />
 </div>
 
 <div align="center">
